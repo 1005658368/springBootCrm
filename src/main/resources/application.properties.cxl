@@ -25,7 +25,3 @@ spring.jpa.format-sql=true
 #spring.datasource.password=root
 #\u6570\u636E\u5E93 end
 
-minidao.base-package: com.cxl.*
-minidao.db-type: mysql
-minidao.show-sql: true
-

@@ -1,7 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Dec 11 21:09:19 CST 2018
+#Sat Dec 22 11:55:40 CST 2018
 https\://xerces.apache.org/xerces2-j/.lastUpdated=1544533757344
 http\://proxool.cvs.sourceforge.net/viewvc/proxool/.lastUpdated=1544533759604
+https\://repo.spring.io/milestone/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1545450940987
+https\://repo.spring.io/milestone/.lastUpdated=1545450940756
 https\://xerces.apache.org/xerces2-j/.error=
 http\://files.couchbase.com/maven2/.lastUpdated=1544533756062
 http\://files.couchbase.com/maven2/.error=
